@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lwjgltwopointfive",
+  "name": "LWJGL 2.5",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DJtheRedstoner"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
